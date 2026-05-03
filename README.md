@@ -1,2 +1,45 @@
 # sql_data_analyst_portfolio
-sql-data-analyst-portfolio/ │ ├── README.md │ ├── 01_customer_analysis/ │   ├── top_customers_by_city.sql │   ├── customer_retention.sql │ ├── 02_sales_analysis/ │   ├── monthly_sales_trend.sql │   ├── revenue_growth.sql │ ├── 03_advanced_sql/ │   ├── cohort_analysis.sql │   ├── churn_analysis.sql
+# 📊 SQL Data Analyst Portfolio — Chirag Kapadiya
+
+This repository showcases SQL projects focused on solving real-world business problems using structured data analysis.
+
+---
+
+## 🚀 Skills Demonstrated
+
+* Data Cleaning & Transformation
+* Aggregations & Joins
+* Window Functions (RANK, DENSE_RANK, etc.)
+* Business-Oriented Analysis
+
+---
+
+## 📁 Project Categories
+
+### 🔹 Customer Analysis
+
+* Identify top customers by revenue
+* Analyze repeat customer behavior
+
+### 🔹 Sales Analysis
+
+* Monthly revenue trends
+* Growth analysis
+
+### 🔹 Advanced SQL
+
+* Cohort analysis
+* Customer churn insights
+
+---
+
+## 📌 Tools Used
+
+* PostgreSQL
+* SQL
+
+---
+
+## 🎯 Goal
+
+To transition into a Data Analyst role by applying SQL to real-world business scenarios and building end-to-end analytical projects.
